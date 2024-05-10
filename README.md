@@ -13,8 +13,7 @@ Why did I fork? Because I can bundle it with cloudflare workers bare server!
 <!-- The font is called Big, if you are wondering -->
 <div align="center">
 
-<a href="" alt="Made with NodeJS"><img src="https://img.shields.io/badge/Made%20with-Node.JS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a> 
-<a href="https://github.com/amethystnetwork-dev/Hypertabs/graphs/contributors/" alt=""><img src="https://img.shields.io/github/contributors/amethystnetwork-dev/Hypertabs?style=for-the-badge"></a>
+<a href="" alt="Made with NodeJS"><img src="https://img.shields.io/badge/Made%20with-Node.JS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
 
 </div>
 
